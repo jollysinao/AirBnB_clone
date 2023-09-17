@@ -3,10 +3,10 @@ from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Represents an amenity.
+    """Represent an amenity.
 
     Attributes:
-        name (str): name of amenity.
+        name (str): name of the amenity.
     """
 
     name = ""
