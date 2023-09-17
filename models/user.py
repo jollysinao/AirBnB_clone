@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This defines the class called User."""
+"""defines the class called User."""
 from models.base_model import BaseModel
 
 
