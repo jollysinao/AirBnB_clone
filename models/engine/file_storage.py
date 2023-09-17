@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines the FileStorage class."""
+"""Defines FileStorage class."""
 from models.user import User
 from models.review import Review
 from models.amenity import Amenity
