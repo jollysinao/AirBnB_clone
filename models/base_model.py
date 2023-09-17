@@ -1,4 +1,5 @@
- the class of BaseModel."""
+#!/usr/bin/python3
+"""Defines the class of BaseModel."""
 import models
 from uuid import uuid4
 from datetime import datetime
