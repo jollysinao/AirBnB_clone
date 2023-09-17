@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-"""Defines the class of BaseModel."""
+"""Defines class of BaseModel."""
 import models
 from uuid import uuid4
 from datetime import datetime
 
 
 class BaseModel:
-    """Represents the BaseModel of HBnB project."""
+    """Represents BaseModel of HBnB project."""
 
     def __init__(self, *args, **kwargs):
         """Initializes a new BaseModel.
